@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1> Hàm trong Js</h1>
+<h4> Hàm trong Js là 1 tập hợp nhiều câu lệnh được gom nhóm lại thành 1
+module để thực hiện những tính năng cụ thể</h4>
+<p> Hàm tính chu vi hình tròn</p>
+<p> Hàm tính chu vi hay diện tích hình chữ nhật</p>
+<p>...</p>
+
+<pre>
+    Cú pháp:
+    funcition tên_hàm(tham_số_1,tham_số_2,tham_số_3...){
+        //code thực thi của hàm
+    }
+    Gọi hàm:
+    tên_hàm(giá_trị_1,giá_trị_2...)
+    hoặc
+    tên_hàm(biến 1, biến 2...)
+</pre>
+
+<h1>Xây dựng 2 function </h1>
+<ol>
+    <li>tính chu vi hình tròn</li>
+    <li>tính diện tích hình tròn</li>
+</ol>
+
+<script type="text/javascript">
+    function chuvi(d) {
+        var c;
+        c = d * 3.14;
+
+        return c;
+    }
+
+    var d = 2;
+
+    var ketqua = chuvi(d);
+    console.log(ketqua);
+</script>
+
+<script type="text/javascript">
+    function dientich(r) {
+        var S;
+        S = r*r * 3.14;
+
+        return S;
+    }
+
+    var r = 2;
+
+    var ketqua = dientich(r);
+    console.log(ketqua);
+</script>
+
+</body>
+</html>

@@ -1,0 +1,170 @@
+
+/*
+Header CSS
+*/
+.header{
+    box-sizing: border-box;
+    height: 180px;
+    padding: 50px 0;
+    margin-left: 50px;
+}
+
+.header nav.main-menu{
+
+}
+
+.header nav.main-menu ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    float: right;
+}
+
+.header nav.main-menu li{
+    float: left;
+}
+
+
+.header nav.main-menu a{
+    display: inline-block;
+    padding: 10px;
+    color: #8d8d8d;
+    font-size: 20px;
+    text-decoration: none;
+
+}
+.header nav.main-menu a:hover{
+    color:orange;
+}
+/*
+Banner
+*/
+.banner{
+    width:100%;
+    margin-top : -180px;
+    height: 936px;
+    background: url(../image/banner.png) top center;
+    display: table;
+}
+.banner h1{
+    font-size: 83px;
+    color: #000000;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+
+}
+.banner h1 span{
+    color: #f66c27;
+}
+
+/*
+Footer
+*/
+footer{
+    background: linear-gradient(to left, #FFFFFF 50%, #f66c27 50%);
+
+}
+
+footer .contact-form{
+    background: #f66c27;
+    box-sizing: border-box;
+    height: 700px;
+
+}
+
+.contact-form .content-form{
+    background: #FFFFFF;
+    padding: 60px;
+    margin-top: 138px;
+    margin-right: 100px;
+}
+
+.content-form input,textarea{
+    border: none;
+    border-bottom: 1px solid #c8c8c8;
+    width: 100%;
+    font-size: 15px;
+    color: #777777;
+    margin-bottom: 30px;
+}
+
+.content-form textarea{
+    padding-bottom: 70px;
+}
+.first-row input{
+    width: 40%;
+}
+
+.first-row:after{
+    content: '';
+    clear: both;
+}
+
+.first-row input[name="email"]{
+    float:right;
+}
+
+.contact-form input[type="submit"]{
+    background: #f48146;
+    color: #FFFFFF;
+    width: auto;
+    padding: 15px 70px;
+    font-size: 18px;
+    border-radius: 30px;
+}
+
+.submit-row{
+    text-align: center;
+}
+
+footer .contact-info{
+    box-sizing: border-box;
+    height: 700px;
+    padding-left: 100px;
+    padding-top: 100px;
+
+}
+h3{
+    font-size: 45px;
+    margin-bottom: 50px;
+}
+h4{
+    font-size: 25px;
+}
+
+.contact-info .line-contact-info{
+    margin-bottom: 50px;
+}
+
+.line-contact-info p span{
+    color: #f58b59;
+}
+.line-contact-info p{
+    padding-top: 15px;
+}
+
+footer .social-icon ul li i {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 50%;
+    background: #bbbbbb ;
+    color: #FFFFFF;
+    text-align: center;
+    margin-right: 20px;
+}
+
+footer .social-icon ul{
+    list-style: none;
+    margin-left: 0;
+}
+.social-icon ul li{
+    float: left;
+}
+footer .social-icon i:hover{
+    background: #f66c27;
+}
+.social-icon .dd i {
+    background: #2faaf1;
+}

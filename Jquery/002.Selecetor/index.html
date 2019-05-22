@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+    <h1> Jquery Selector là gì?</h1>
+    <p> CSS selector là bộ chọn CSS các thẻ html mà bạn mong muốn, ví dụ:
+        .class, #id , tag_name ( body , div , p ... )</p>
+    <p>Jquery selector là bộ chọn của Jquery để chọn các thẻ html mà bạn mong muốn</p>
+
+    <pre style="font-size: 22px; color: red;">
+        CSS                   =>         Jquery
+
+        .class                =>        $(".class")
+        #id                   =>        $("#id")
+        tag_name(div)         =>     $("tag_name" $("div")
+        .class A .class B     =>     $(".class A .class B")
+        .class A > class B    =>     $(".class A > .class B")
+
+        CHÚ Ý: tất cả các selector tên class, yên id, tê thẻ đều phải nằm
+        trong "" hoặc '' nhưng riêng document và window thì k cần.
+
+
+        $(document).ready(); là gì???
+        - $() - là cú pháp của selector.
+        - document là đại diện của toàn trang html.
+        - ready có nghĩa là khi mà trang web được tải xong và chúng ta sẽ
+        viết các lệnh jquery hoặc js ở trong method ready để đảm bảo js được
+        chạy sau khi trang web đã được tải xuống.
+
+        @@@
+
+        Trong document ready sẽ có 1 function của js nhưng mà không có tên và
+        nó đóng vai trò là CALLBACK
+        CALLBACK là gì?
+        CALLBACK là hàm mà sẽ được chạy sau khi 1 sự kiện hoặc 1 hiệu ứng xảy ra
+        Ví dụ: Sau khi bạn nhắn tin hay gọi điện thoại thì nhà mạng sẽ trừ tiền
+        trong tài khoản
+        hành động trừ tiền sẽ diễn ra sau cuộc gọi và nó chính là CALLBACK
+
+        function() {
+            code thực thi bên trong CALLBACK
+        }
+
+    </pre>
+
+    <script
+            src="https://code.jquery.com/jquery-3.4.1.min.js"
+            integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+            crossorigin="anonymous"></script>
+
+    <script type="text/javascript">
+
+        $(document).ready(function() {
+            alert("trang đã được tải xuống"); // đây là code trong CALLBACK của document ready
+        })
+    </script>
+    <script>
+        $(document).ready(function () {
+            
+        })
+    </script>
+</body>
+</html>

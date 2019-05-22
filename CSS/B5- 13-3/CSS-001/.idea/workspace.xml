@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c577821-5ec7-4eac-ae35-6342a3bfb2c1" name="Default Changelist" comment="7-4" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../Bootstrap/B13 - 17-4/BS-001/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../Bootstrap/B13 - 17-4/003-BootstrapGridResposive/index4.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="12" selection-start-line="5" selection-start-column="4" selection-end-line="15" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../Bootstrap/B13 - 17-4/003-BootstrapGridResposive/index5.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../Bootstrap/B13 - 17-4/003-BootstrapGridResposive/index6.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>col-md-3</find>
+      <find>col-md-12</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>col-md-12</replace>
+      <replace>col-md-1</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../../B8- 27-3/CSS-Display/none.html" />
+        <option value="$PROJECT_DIR$/../../B8- 27-3/CSS-Display/override.html" />
+        <option value="$PROJECT_DIR$/../../B8- 27-3/CSS-Display/index.html" />
+        <option value="$PROJECT_DIR$/../../B8- 27-3/CSS-Float/nhap.html" />
+        <option value="$PROJECT_DIR$/../../B8- 27-3/CSS-Float/index.html" />
+        <option value="$PROJECT_DIR$/../../B8- 27-3/CSS-Position/nhap.html" />
+        <option value="$PROJECT_DIR$/../../B8- 27-3/CSS-Position/index.html" />
+        <option value="$PROJECT_DIR$/../../B8- 27-3/CSS-Position/new.html" />
+        <option value="$PROJECT_DIR$/../../B9- 31-3/CSS-Overflow/scroll.html" />
+        <option value="$PROJECT_DIR$/../../B9- 31-3/CSS-Overflow/hidden.html" />
+        <option value="$PROJECT_DIR$/../../B9- 31-3/CSS-Overflow/visible.html" />
+        <option value="$PROJECT_DIR$/../../B9- 31-3/CSS-Overflow/auto.html" />
+        <option value="$PROJECT_DIR$/../../B9- 31-3/CSS-Overflow/Scroll-x.html" />
+        <option value="$PROJECT_DIR$/../../B9- 31-3/CSS-Overflow/Overflow-y.html" />
+        <option value="$PROJECT_DIR$/../../B9- 31-3/CSS-Overflow/Overflow-x.html" />
+        <option value="$PROJECT_DIR$/../../B9- 31-3/CSS-FloatClear/index.html" />
+        <option value="$PROJECT_DIR$/../../B10 - 3-4/CSS-Align/align.html" />
+        <option value="$PROJECT_DIR$/../../B10 - 3-4/CSS-Align/002.html" />
+        <option value="$PROJECT_DIR$/../../B10 - 3-4/CSS-Align/003.html" />
+        <option value="$PROJECT_DIR$/../../B10 - 3-4/CSS-Align/004.html" />
+        <option value="$PROJECT_DIR$/../../B10 - 3-4/CSS-Align/006.html" />
+        <option value="$PROJECT_DIR$/../../B10 - 3-4/CSS-Align/005.html" />
+        <option value="$PROJECT_DIR$/../../B10 - 3-4/CSS-Align/007.html" />
+        <option value="$PROJECT_DIR$/../../B10 - 3-4/CSS-Align/008.html" />
+        <option value="$PROJECT_DIR$/../../B10 - 3-4/CSS-Combinators/index.html" />
+        <option value="$PROJECT_DIR$/../../B10 - 3-4/CSS-Combinators/index2.html" />
+        <option value="$PROJECT_DIR$/../../B10 - 3-4/CSS-Combinators/index3.html" />
+        <option value="$PROJECT_DIR$/../../B10 - 3-4/CSS-Combinators/index4.html" />
+        <option value="$PROJECT_DIR$/../../B10 - 3-4/CSS-WebFonts/index.html" />
+        <option value="$PROJECT_DIR$/../../B11- Box-Sizing/index.html" />
+        <option value="$PROJECT_DIR$/../../B11- 7-4/CSS-Media Queries/index.html" />
+        <option value="$PROJECT_DIR$/../../B11- 7-4/CSS-Media Queries/index3.html" />
+        <option value="$PROJECT_DIR$/../../B12 - 10-4/CSS-RWD/afterbefore.html" />
+        <option value="$PROJECT_DIR$/../../B12 - 10-4/CSS-RWD/framework.css" />
+        <option value="$PROJECT_DIR$/../../B11- 7-4/CSS-Media Queries/nhap.css" />
+        <option value="$PROJECT_DIR$/../../B11- 7-4/CSS-Media Queries/nhap.html" />
+        <option value="$PROJECT_DIR$/../../B11- 7-4/CSS-Media Queries/index2.html" />
+        <option value="$PROJECT_DIR$/../../B12 - 10-4/CSS-RWD/index.html" />
+        <option value="$PROJECT_DIR$/../../B12 - 10-4/CSS-RWD/framework(nhap).css" />
+        <option value="$PROJECT_DIR$/../../B12 - 10-4/CSS-RWD/nhap.html" />
+        <option value="$PROJECT_DIR$/../../Bootstrap/B13 - 17-4/BS-001/index.html" />
+        <option value="$PROJECT_DIR$/../../Bootstrap/B13 - 17-4/BS-001/index2.html" />
+        <option value="$PROJECT_DIR$/../../Bootstrap/B13 - 17-4/002BootstrapGid/nhap.html" />
+        <option value="$PROJECT_DIR$/../../Bootstrap/B13 - 17-4/002BootstrapGid/index.html" />
+        <option value="$PROJECT_DIR$/../../Bootstrap/B13 - 17-4/002BootstrapGrid/index.html" />
+        <option value="$PROJECT_DIR$/../../Bootstrap/B13 - 17-4/003-BootstrapGridResposive/index.html" />
+        <option value="$PROJECT_DIR$/../../Bootstrap/B13 - 17-4/003-BootstrapGridResposive/index2.html" />
+        <option value="$PROJECT_DIR$/../../Bootstrap/B13 - 17-4/003-BootstrapGridResposive/index3.html" />
+        <option value="$PROJECT_DIR$/../../Bootstrap/B13 - 17-4/003-BootstrapGridResposive/index4.html" />
+        <option value="$PROJECT_DIR$/../../Bootstrap/B13 - 17-4/003-BootstrapGridResposive/index5.html" />
+        <option value="$PROJECT_DIR$/../../Bootstrap/B13 - 17-4/003-BootstrapGridResposive/index6.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="330" />
+    <option name="y" value="66" />
+    <option name="width" value="1424" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CSS-001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSS-001" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Bootstrap/B13 - 17-4/003-BootstrapGridResposive" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\T3H\B9- 31-3\CSS-FloatClear" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\T3H\B11- Box-Sizing\CSS - Box Sizing" />
+      <recent name="D:\xampp\htdocs\T3H\B10 - 3-4\CSS-Align" />
+      <recent name="D:\xampp\htdocs\T3H\B8- 27-3\CSS-Display" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c577821-5ec7-4eac-ae35-6342a3bfb2c1" name="Default Changelist" comment="" />
+      <created>1553705775755</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553705775755</updated>
+      <workItem from="1553705777077" duration="5000" />
+      <workItem from="1553705801044" duration="346000" />
+      <workItem from="1553783730519" duration="7602000" />
+      <workItem from="1554128309330" duration="2002000" />
+      <workItem from="1554291410195" duration="8471000" />
+      <workItem from="1554391710202" duration="640000" />
+      <workItem from="1554622227398" duration="6127000" />
+      <workItem from="1554732756136" duration="655000" />
+      <workItem from="1554896171848" duration="7886000" />
+      <workItem from="1555428960459" duration="5519000" />
+      <workItem from="1555502254734" duration="7348000" />
+      <workItem from="1555687673090" duration="651000" />
+    </task>
+    <task id="LOCAL-00001" summary="CSS">
+      <created>1553784316348</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553784316348</updated>
+    </task>
+    <task id="LOCAL-00002" summary="CSS">
+      <created>1553791514582</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1553791514582</updated>
+    </task>
+    <task id="LOCAL-00003" summary="CSS">
+      <created>1554299821545</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1554299821545</updated>
+    </task>
+    <task id="LOCAL-00004" summary="7-4">
+      <created>1554632522596</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1554632522597</updated>
+    </task>
+    <task id="LOCAL-00005" summary="13-3">
+      <created>1554632951420</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1554632951420</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="47252000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="264" y="53" width="1139" height="832" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20481928" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.04601227" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="CSS" />
+    <MESSAGE value="7-4" />
+    <MESSAGE value="13-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="13-3" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../B7- 24-3/CSS-Text/decoration.html" />
+    <entry file="file://$PROJECT_DIR$/../../B8- 27-3/CSS-Display/none.html" />
+    <entry file="file://$PROJECT_DIR$/../../B8- 27-3/CSS-Display/override.html" />
+    <entry file="file://$PROJECT_DIR$/../../B8- 27-3/CSS-Display/index.html" />
+    <entry file="file://$PROJECT_DIR$/../../B8- 27-3/CSS-Float/index.html" />
+    <entry file="file://$PROJECT_DIR$/../../B8- 27-3/CSS-Position/nhap.html" />
+    <entry file="file://$PROJECT_DIR$/../../B8- 27-3/CSS-Position/index.html" />
+    <entry file="file://$PROJECT_DIR$/../../B9- 31-3/CSS-Overflow/Overflow-x.html" />
+    <entry file="file://$PROJECT_DIR$/../../B9- 31-3/CSS-Overflow/Overflow-y.html" />
+    <entry file="file://$PROJECT_DIR$/../../B9- 31-3/CSS-Overflow/auto.html" />
+    <entry file="file://$PROJECT_DIR$/../../B9- 31-3/CSS-Overflow/scroll.html" />
+    <entry file="file://$PROJECT_DIR$/../../B9- 31-3/CSS-Overflow/hidden.html" />
+    <entry file="file://$PROJECT_DIR$/../../B9- 31-3/CSS-Overflow/visible.html" />
+    <entry file="file://$PROJECT_DIR$/../../B10 - 3-4/CSS-Align/align.html" />
+    <entry file="file://$PROJECT_DIR$/../../B10 - 3-4/CSS-Align/dog.jpg" />
+    <entry file="file://$PROJECT_DIR$/../../B9- 31-3/CSS-FloatClear/cat.jpg" />
+    <entry file="file://$PROJECT_DIR$/../../B9- 31-3/CSS-FloatClear/dog.jpg" />
+    <entry file="file://$PROJECT_DIR$/../../B9- 31-3/CSS-FloatClear/index.html" />
+    <entry file="file://$PROJECT_DIR$/../../B10 - 3-4/CSS-Align/002.html" />
+    <entry file="file://$PROJECT_DIR$/../../B10 - 3-4/CSS-Align/005.html" />
+    <entry file="file://$PROJECT_DIR$/../../B10 - 3-4/CSS-Align/004.html" />
+    <entry file="file://$PROJECT_DIR$/../../B10 - 3-4/CSS-Align/003.html" />
+    <entry file="file://$PROJECT_DIR$/../../B10 - 3-4/CSS-Align/006.html" />
+    <entry file="file://$PROJECT_DIR$/../../B10 - 3-4/CSS-Align/008.html" />
+    <entry file="file://$PROJECT_DIR$/../../B10 - 3-4/CSS-Align/007.html" />
+    <entry file="file://$PROJECT_DIR$/../../B10 - 3-4/CSS-Combinators/index4.html" />
+    <entry file="file://$PROJECT_DIR$/../../B10 - 3-4/CSS-Combinators/index3.html" />
+    <entry file="file://$PROJECT_DIR$/../../B10 - 3-4/CSS-WebFonts/index.html" />
+    <entry file="file://$PROJECT_DIR$/../../B10 - 3-4/CSS-Combinators/index.html" />
+    <entry file="file://$PROJECT_DIR$/../../B10 - 3-4/CSS-Combinators/index2.html" />
+    <entry file="file://$PROJECT_DIR$/../../B11- 7-4/CSS - Box Sizing/index.html" />
+    <entry file="file://$PROJECT_DIR$/../../B11- 7-4/CSS-Media Queries/nhap.css" />
+    <entry file="file://$PROJECT_DIR$/../../B11- 7-4/CSS-Media Queries/index3.html" />
+    <entry file="file://$PROJECT_DIR$/../../B11- 7-4/CSS-Media Queries/index.html" />
+    <entry file="file://$PROJECT_DIR$/../../B11- 7-4/CSS-Media Queries/nhap.html" />
+    <entry file="file://$PROJECT_DIR$/../../B11- 7-4/CSS-Media Queries/index2.html" />
+    <entry file="file://$PROJECT_DIR$/../../B12 - 10-4/CSS-RWD/afterbefore.html" />
+    <entry file="file://$PROJECT_DIR$/../../B12 - 10-4/CSS-RWD/framework(nhap).css" />
+    <entry file="file://$PROJECT_DIR$/../../B12 - 10-4/CSS-RWD/index.html" />
+    <entry file="file://$PROJECT_DIR$/../../B12 - 10-4/CSS-RWD/framework.css" />
+    <entry file="file://$PROJECT_DIR$/../../B12 - 10-4/CSS-RWD/nhap.html" />
+    <entry file="file://$PROJECT_DIR$/../../Bootstrap/B13 - 17-4/002BootstrapGid/nhap.html" />
+    <entry file="file://$PROJECT_DIR$/../../Bootstrap/B13 - 17-4/002BootstrapGrid/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Bootstrap/B13 - 17-4/003-BootstrapGridResposive/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="215" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Bootstrap/B13 - 17-4/003-BootstrapGridResposive/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Bootstrap/B13 - 17-4/BS-001/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Bootstrap/B13 - 17-4/003-BootstrapGridResposive/index3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Bootstrap/B13 - 17-4/003-BootstrapGridResposive/index4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="12" selection-start-line="5" selection-start-column="4" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Bootstrap/B13 - 17-4/003-BootstrapGridResposive/index6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Bootstrap/B13 - 17-4/BS-001/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Bootstrap/B13 - 17-4/003-BootstrapGridResposive/index5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+<h1>Các sự kiện: di chuột mouseenter(di vào) và mouseleave(di ra)</h1>
+
+<div class="container" style="background: orange; padding: 20px; margin: 30px">
+    CSS selector là bộ chọn CSS các thẻ html mà bạn mong muốn
+    Jquery selector là bộ chọn của Jquery để chọn các thẻ html mà bạn mong muốn
+</div>
+<div class="container" style="background: orange; padding: 20px; margin: 30px">
+    CSS selector là bộ chọn CSS các thẻ html mà bạn mong muốn
+    Jquery selector là bộ chọn của Jquery để chọn các thẻ html mà bạn mong muốn
+</div>
+<div class="container" style="background: orange; padding: 20px; margin: 30px">
+    CSS selector là bộ chọn CSS các thẻ html mà bạn mong muốn
+    Jquery selector là bộ chọn của Jquery để chọn các thẻ html mà bạn mong muốn
+</div>
+
+<script
+        src="https://code.jquery.com/jquery-3.4.1.min.js"
+        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+        crossorigin="anonymous">
+
+</script>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+
+        //di chuột vào
+        //bên trong mouseenter là 1 callback
+        $(".container").mouseenter(function() {
+            $(".container").css("background","green");
+            //Khi dùng ".container" thì tất cả đối tượng có class="container"
+            // sẽ bị thay đổi khi mouseenter vào 1 trong số chúng
+        });
+
+        //di chuột ra
+        $(".container").mouseleave(function () {
+
+            $(".container").css("background","orange");
+        })
+
+    });
+</script>
+</body>
+</html>

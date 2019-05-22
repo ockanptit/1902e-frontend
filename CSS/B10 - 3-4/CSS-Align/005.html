@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        #cha{
+            background: green;
+            width: 800px;
+            height: 400px;
+            margin: 30px;
+            color:white;
+            position: relative;
+        }
+        #target1,#target2, #target3{
+            background: orange;
+            width: 50%;
+        }
+        #target1{
+            position: absolute;
+            top:0px;
+            left: 0;
+        }
+        #target2{
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%,-50%);
+        }
+        #target3{
+            position: absolute;
+            right: 0;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Căn trái , phải , giữa theo chiều dọc khi 1 thẻ block nằm trong 1 thẻ block khác</h1>
+    <p>Và mình sẽ căn trái , phải , giữa theo chiều dọc và theo thẻ mẹ</p>
+    <p>Khi căn vị trí theo thẻ mẹ sử dụng kỹ thuật position</p>
+    <p>1 - cần đặt position cho thẻ mẹ là relative</p>
+    <p>2 - cần đặt position cho thẻ con là absolute và đặt các thuộc tính css vị trí như top,
+        left, right , bottom theo nhu cầu thực tế</p>
+    <p>căn theo chiều dọc bên trên top:0</p>
+    <p>căn theo chiều dọc giữa top:50% và transform: translate(-50%, -50%);</p>
+    <p>căn theo chiều dọc bên trên bottom:0</p>
+
+    <div id="cha">
+        <div id="target1">
+            Block căn theo bên trái
+            <img src="dog.jpg" />
+        </div>
+    </div>
+
+    <div id="cha">
+        <div id="target2">
+            Block căn theo giữa
+            <img src="dog.jpg" />
+        </div>
+    </div>
+
+    <div id="cha">
+        <div id="target3">
+            Block căn theo bên phải
+            <img src="dog.jpg" />
+        </div>
+    </div>
+</body>
+</html>

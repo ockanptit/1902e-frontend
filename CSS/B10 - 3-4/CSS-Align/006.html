@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        .clearfix {
+            overflow: auto;
+        }
+        .clearfix::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
+        #cha{
+            background: green;
+            width: 800px;
+            margin: 50px auto;
+            color:white;
+        }
+        #target1,#target2, #target3{
+            background: orange;
+            width: 50%;
+        }
+        #target1{
+           float: left;
+        }
+        #target2{
+            margin: 0 auto;
+        }
+        #target3{
+            float: right;
+        }
+    </style>
+</head>
+<body>
+    <h1>Căn trái , phải , giữa khi 1 thẻ block nằm trong 1 thẻ block khác</h1>
+    <p>Và mình sẽ căn trái , phải , giữa theo thẻ mẹ</p>
+    <p>Dùng kỹ thuật float và clear trong CSS</p>
+    <p>Khi thẻ con float thì thẻ con trượt khỏi thẻ mẹ</p>
+
+
+<div id="cha" class="clearfix">
+    <div id="target1">
+        Căn trái
+        <img src="dog.jpg" />
+    </div>
+</div>
+
+<div id="cha" class="clearfix">
+    <div id="target2">
+        Căn giữa
+        <img src="dog.jpg" />
+    </div>
+</div>
+
+<div id="cha" class="clearfix">
+    <div id="target3">
+        Căn phải
+        <img src="dog.jpg" />
+    </div>
+</div>
+</body>
+</html>

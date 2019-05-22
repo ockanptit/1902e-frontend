@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        #cha1{
+            background: green;
+            padding: 10px;
+        }
+        #cha1 ~ p{
+            background: orange;
+            color: white;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1> CSS Selector kết hợp</h1>
+
+    <h1> 1- Selector1 ~ Selector2 </h1>
+    <p>Selector2 là anh chị em nằm cùng cấp với Selector1 </p>
+
+    <div id="cha1">
+        <div class="row1">
+            <p>Đoạn văn</p>
+        </div>
+        <p> đoạn văn</p>
+    </div>
+
+    <p> Đoạn văn ngoài thẻ #cha1</p>
+    <p> Đoạn văn ngoài thẻ #cha1</p>
+    <p> Đoạn văn ngoài thẻ #cha1</p>
+
+</body>
+</html>
