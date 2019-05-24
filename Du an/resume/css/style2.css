@@ -1,0 +1,14 @@
+
+.contact-info .contact-info-row{
+     float: left;
+ }
+.contact-info-row {
+    width: 350px;
+    height: 100px;
+    background: aqua;
+    color: #FFFFFF;
+}
+.phone{
+    margin: 0 30px;
+    box-shadow: 0px 5px 5px #666;
+}
