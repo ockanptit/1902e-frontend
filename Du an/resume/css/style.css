@@ -23,7 +23,57 @@
     color: aqua;
 }
 
+.testimonial{
+    height: 500px;
+    width: 100%;
+    background: #e9ebec;
+}
 
+
+.content-blog{
+    height: 700px;
+    width: 100%;
+    margin: 50px 200px;
+}
+.content-blog .blog{
+    float: left;
+}
+.blog{
+    width: 350px;
+    height: 480px;
+    background: #f6f7f8;
+    margin-top: 50px ;
+    margin-right: 35px ;
+}
+
+.blog input{
+    border: none;
+    background: #0aaefa;
+    color: #FFFFFF;
+    width: auto;
+    padding: 10px 30px;
+    border-radius: 30px;
+    margin-top: -50px;
+    margin-left: 100px;
+}
+.blog img{
+    margin: 5px;
+}
+.blog p{
+    padding: 0 20px;
+}
+.blog .fa-heart-o{
+    float: left;
+    margin-left: 20px;
+    padding-right: 10px;
+    color: #f600ff;
+}
+.blog .fa-pencil-square-o{
+    float: right;
+    margin-right: 15px;
+    padding-left: 10px;
+    color: #15fc00;
+}
 .contact{
     height: 700px;
     width: 100%;
@@ -48,7 +98,7 @@
 
 }
 .phone{
-    margin:0 30px;
+    margin:0 33px;
     box-shadow: 0 5px 15px #666;
 }
 

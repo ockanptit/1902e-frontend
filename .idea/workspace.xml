@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8687392-883f-4636-a94f-847c9f13ea18" name="Default Changelist" comment="" />
+    <list default="true" id="c8687392-883f-4636-a94f-847c9f13ea18" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Du an/noithat/nhap.html" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,13 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Bootstrap/.idea/encodings.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -55,6 +52,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -62,16 +60,10 @@
               <item name="1902e_frontend" type="b2602c69:ProjectViewProjectNode" />
               <item name="1902e_frontend" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="1902e_frontend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1902e_frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="Bootstrap" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -106,7 +98,8 @@
       <option name="presentableId" value="Default" />
       <updated>1558529502698</updated>
       <workItem from="1558529503928" duration="132000" />
-      <workItem from="1558529799421" duration="761000" />
+      <workItem from="1558529799421" duration="880000" />
+      <workItem from="1558531502048" duration="171000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1558530064711</created>
@@ -129,16 +122,23 @@
       <option name="project" value="LOCAL" />
       <updated>1558530556355</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="111">
+      <created>1558530626538</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1558530626538</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="893000" />
+    <option name="totallyTimeSpent" value="1183000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -170,13 +170,7 @@
     <entry file="file://$PROJECT_DIR$/CSS/B5- 13-3/CSS-001/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/B5- 13-3/CSS-001/index1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/B5- 13-3/CSS-001/index1.html" />
     <entry file="file://$PROJECT_DIR$/Bootstrap/.idea/encodings.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
